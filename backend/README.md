@@ -1,0 +1,1 @@
+go.mod PATH --> PS E:\IT\Backend\2\facebook-clone\backend\services\auth-service> //go mod init facebook-clone
